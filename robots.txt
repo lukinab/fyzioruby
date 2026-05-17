@@ -1,0 +1,3 @@
+﻿User-agent: *
+
+Sitemap: https://fyzioruby.cz/sitemap.xml
